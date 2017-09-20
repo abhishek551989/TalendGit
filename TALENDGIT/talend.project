@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_h0N70Z3zEeeQvP0r9DNvdQ" label="TalendGit" description="First project to set connection with GIT" language="java" technicalLabel="TALENDGIT" creationDate="2017-09-20T16:28:31.000+0530" author="_h0N70p3zEeeQvP0r9DNvdQ" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/abhishek551989/TalendGit.git&quot;,&quot;login&quot;:&quot;abhishek551989&quot;,&quot;passwd&quot;:&quot;ezIRdydhwIV81+hOA5/5wNVquGodjSTZ&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_h0N70p3zEeeQvP0r9DNvdQ" login="abhishek@osscube.com" firstName="abhishek" lastName="kumar" type="DI" additionnalData="{}"/>
+</xmi:XMI>
